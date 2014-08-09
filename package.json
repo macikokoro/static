@@ -1,0 +1,8 @@
+{
+  "name" : "hello-static-express",
+  "description" : "Static page express app",
+  "version" : "0.0.1",
+  "dependencies" : {
+    "express" : "^4.0"
+  }
+}
